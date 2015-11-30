@@ -1,0 +1,27 @@
+{
+  "name": "assignment-23",
+  "version": "1.0.0",
+  "description": "___This homework is due by 8am, on 11/30/2015___",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mychelleblake/Assignment-23.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mychelleblake/Assignment-23/issues"
+  },
+  "homepage": "https://github.com/mychelleblake/Assignment-23#readme",
+  "dependencies": {
+    "react": "^0.14.3"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.13.2",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.0"
+  }
+}
